@@ -1,5 +1,5 @@
 # Python-Easy-Challenges
-It is set of easy level python challenges from hackerrank for coding exams.
+It is set of easy level problem solving challenges from hackerrank for coding exams.
 
 Tools used:
 1. Execute Python Online
